@@ -1,0 +1,23 @@
+
+<addons>
+    <addon id="repository.umbrella" name="Umbrella" version="2.2.6" provider-name="UmbrellaPlug">
+        <extension point="xbmc.addon.repository" library="repository.umbrella-2.2.6.zip">
+            <url>https://umbrellaplug.github.io/</url>
+        </extension>
+    </addon>
+    <addon id="repository.cocoscrapers" name="CocoScrapers" version="1.0.0" provider-name="CocoJoe">
+        <extension point="xbmc.addon.repository" library="repository.cocoscrapers-1.0.0.zip">
+            <url>https://cocojoe2411.github.io/</url>
+        </extension>
+    </addon>
+    <addon id="repository.osmcskin" name="OSMC Skin" version="1.0.0" provider-name="OSMC Skin">
+        <extension point="xbmc.addon.repository" library="repository.osmcskin.zip">
+            <url>https://get.osmcsk.in/</url>
+        </extension>
+    </addon>
+    <addon id="repository.mediafusion" name="MediaFusion" version="4.3.14" provider-name="MediaFusion">
+        <extension point="xbmc.addon.repository" library="repository.mediafusion-4.3.14.zip">
+            <url>https://mhdzumair.github.io/MediaFusion/</url>
+        </extension>
+    </addon>
+</addons>
